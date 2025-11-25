@@ -1,0 +1,65 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Chaofan Wang - The Chinese University of Hong Kong}
+
+~~~
+{}{img_left}{img/2025-09-03-Chaofan Wang-02-Edit.jpg}{}{126}{}{}
+= Chaofan Wang
+
+*Ph.D. student*  
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Office*: Rm 902, Ho Sin Hang Engineering Building \n
+*Email*: wcfsdcard\[at\]gmail.com ; chaofan.wang\[at\]yale.edu \n
+~~~
+
+#{{<a href="https://www.linkedin.com/in/yuzhe-ma-275a7bb5" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a>
+#<a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
+
+
+== Biography
+
+I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Spring 2026.
+
+Previously, I received Master of Science from [https://engineering.yale.edu/academic-study/departments/electrical-and-computer-engineering Department of Electrical Engineering] at [https://www.yale.edu/ Yale University] in 2025,
+and Bachelor of Science from [https://en.scgy.ustc.edu.cn/main.htm School of the Gifted Young] at [http://www.ustc.edu.cn/ USTC] in 2023.
+
+My research interests include machine learning and deep learning with applications in lithography simulation and optical proximity correction, specifically for the advanced nodes.
+
+Before coming to CUHK, I worked on developing quantum-limited parametric amplifiers beyond the conventional sub-10 GHz frequency range.
+
+#[http://yuzhe630.github.io/cv/cv_Yuzhe.pdf *My Resume/CV*]
+
+
+== Publications (Current Research)
+More to come!
+
+== Publications (Previous Research)
+- \[J1\] Lizhe Wang, *Hao Geng*, Peng Liu, Ke Lu, Joanna Kolodziej, Rajiv Ranjan, Albert Zomaya,
+  "[http://www.sciencedirect.com/science/article/pii/S0950705114003712 Particle Swarm Optimization based Dictionary Learning for Remote Sensing Big Data]",
+  Knowledge-Based System, vol. 79, pages 43-50, Elsevier, May, 2015.
+
+- \[C1\] *Hao Geng*, Lizhe Wang, Peng Liu, Lajiao Chen,
+  "[http://ieeexplore.ieee.org/abstract/document/6946980/ Compressed Sensing Based Remote Sensing Image Reconstruction Using an Auxiliary Image as Priors]",
+  in IEEE Geoscience and Remote Sensing Symposium (IGARSS), pages 2499-2502, IEEE, Quebec, Canada, 2014.
+
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+Postgraduate Studentship           | CUHK  | 2026-2030  ||
+PhD Student Research Assistantship | Yale  | 2023-2025  ||
+Outstanding Student Award          | USTC  | 2020 
+~~~
+
+
+== Teaching
+
+Spring 2025: [https://courses.yale.edu/?details&srcdb=202501&crn=20235 EENG203 -- Circuits and Systems Design (at Yale) ]
+
+Fall 2024: [https://courses.yale.edu/?details&srcdb=202403&code=EENG%20200 EENG200 -- Introduction to Electronics (at Yale)]
+

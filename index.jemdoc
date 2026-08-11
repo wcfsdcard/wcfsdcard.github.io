@@ -29,7 +29,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] startin
 Previously, I received a Master of Science from [https://engineering.yale.edu/academic-study/departments/electrical-and-computer-engineering Department of Electrical Engineering] at [https://www.yale.edu/ Yale University] in 2025,
 and a Bachelor of Science from [https://en.scgy.ustc.edu.cn/main.htm School of the Gifted Young] at [http://www.ustc.edu.cn/ USTC] in 2023.
 
-My research interests include machine learning and deep learning with applications in lithography simulation and optical proximity correction, specifically for the advanced nodes.
+My current research interest lies in computational lithography, where we leverage GPU compute for VLSI lithography simulation and mask optimization.
 
 Before coming to CUHK, I worked on developing quantum-limited parametric amplifiers beyond the conventional sub-10 GHz frequency range.
 
@@ -37,17 +37,24 @@ Before coming to CUHK, I worked on developing quantum-limited parametric amplifi
 
 
 == Publications (Current Research)
+
 More to come!
+
+- \[C2\] *Chaofan Wang*, Ziyang Yu, Su Zheng, Zixiao Wang, Yifan Shi, Bei Yu, “Moreau-ILT: Efficient Inverse Lithography Exploiting Weak Convexity”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
 
 == Publications (Past Research)
 
 While I am at Yale:
 
-- More to come!
+More to come!
+
+- \[J6\] *Wang, C.*, Liu, S., Wu, Y., Wang, D., Pace, M. C., Li, X., & Tang, H. X. (2026). "A K-band kinetic-inductance parametric amplifier near the quantum limit" Applied Physics Letters, 128(25).
 
 - \[J5\] Wu, Y., *Wang, C.*, Wang, D., Xu, M., Zhou, Y., & Tang, H. X. (2025). “Broad Spectrum Coherent Frequency Conversion with Kinetic Inductance Superconducting Metastructures” Physical Review Applied 24, 024015
 
 - \[J4\] Jiao, Z., Liu, S., Xie, J., Lim, J., Yang, G., *Wang, C.*, & Tang, H. X. (2025). "SiC cavity-based pressure sensor with high dynamic range" IEEE Sensors Journal vol. 25, no. 16, pp. 30464-30469
+
+- \[C1\] Likai Yang, Yufeng Wu, *Chaofan Wang*, Mingrui Xu, Hong X. Tang, Mohamed A. Hassan, and Eric T. Holland. "Nonlinear co-simulation for designing kinetic inductance parametric amplifiers." In 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 1393-1393. IEEE, 2025.
 
 While I am at USTC:
 

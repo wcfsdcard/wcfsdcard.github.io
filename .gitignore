@@ -2,3 +2,5 @@ Makefile
 
 jemdoc
 jemdoc.py
+
+cv/
